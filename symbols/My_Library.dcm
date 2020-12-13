@@ -4,4 +4,8 @@ $CMP CY8C5888LTI-LP097
 F https://www.cypress.com/file/45906/download
 $ENDCMP
 #
+$CMP USB_TypeC_2.0_Receptacle
+F https://gct.co/files/drawings/usb4085.pdf
+$ENDCMP
+#
 #End Doc Library
